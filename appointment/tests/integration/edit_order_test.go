@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/AlikhanSagatbekov/adv11/internal/data"
+	"github.com/AlikhanSagatbekov/carDetailing/internal/data"
 )
 
 func TestEditOrderHandler(t *testing.T) {

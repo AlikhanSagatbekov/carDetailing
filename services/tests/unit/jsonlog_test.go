@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/AlikhanSagatbekov/adv11/internal/jsonlog"
+	"github.com/AlikhanSagatbekov/carDetailing/internal/jsonlog"
 )
 
 func TestJSONLogger_PrintError(t *testing.T) {

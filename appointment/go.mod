@@ -1,4 +1,4 @@
-module github.com/AlikhanSagatbekov/adv11
+module github.com/AlikhanSagatbekov/carDetailing
 
 go 1.21.5
 

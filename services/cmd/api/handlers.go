@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/AlikhanSagatbekov/adv11/internal/data"
+	"github.com/AlikhanSagatbekov/carDetailing/internal/data"
 )
 
 func (app *application) createServiceHandler(w http.ResponseWriter, r *http.Request) {

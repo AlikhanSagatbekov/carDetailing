@@ -9,8 +9,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/AlikhanSagatbekov/adv11/internal/data"
-	"github.com/AlikhanSagatbekov/adv11/internal/jsonlog"
+	"github.com/AlikhanSagatbekov/carDetailing/internal/data"
+	"github.com/AlikhanSagatbekov/carDetailing/internal/jsonlog"
 	_ "github.com/lib/pq"
 )
 
